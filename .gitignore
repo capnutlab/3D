@@ -13,6 +13,10 @@
 __pycache__/
 *.py[cod]
 
+# Temp analysis caches (Blender face/texture sampling)
+*.npy
+*.npz
+
 # OS
 Thumbs.db
 Desktop.ini
